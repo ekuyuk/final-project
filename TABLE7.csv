@@ -1,0 +1,41 @@
+"Row Order","Survey","Survey Year","Area","Table Description","Tenure Filter","Geography Filter","Characteristics","Age of Householder: Total|Metric: Estimate","Age of Householder: Under 25 years old|Metric: Estimate","Age of Householder: 25 to 29 years old|Metric: Estimate","Age of Householder: 30 to 34 years old|Metric: Estimate","Age of Householder: 35 to 44 years old|Metric: Estimate","Age of Householder: 45 to 54 years old|Metric: Estimate","Age of Householder: 55 to 64 years old|Metric: Estimate","Age of Householder: 65 to 74 years old|Metric: Estimate","Age of Householder: 75 years old and over|Metric: Estimate"
+1,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","RESPONDENT MOVED DURING PAST TWO YEARS",,,,,,,,,
+2,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+3,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","      Total",10031,371,1175,1571,2497,1515,1539,934,429
+4,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+5,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Housing Search Ended Earlier Than Intended",,,,,,,,,
+6,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","  ",,,,,,,,,
+7,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Yes",868,"S",89,176,230,131,103,92,"S"
+8,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","  Reason housing search ended early:",,,,,,,,,
+9,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","    Had to move quickly",431,"S",39,117,122,54,"S",39,"S"
+10,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","    Had difficulty with travel","S","S","S","S",".",".",".","S","."
+11,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","    Both","S","S","S","S","S","S","S","S","S"
+12,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","    No reason given",371,"S",47,57,101,54,66,38,"S"
+13,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","No",9163,355,1086,1395,2267,1384,1436,842,399
+14,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+15,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","How Respondent Found Current Unit",,,,,,,,,
+16,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+17,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Word of mouth",2405,121,273,320,591,316,398,240,145
+18,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Newspaper or other publication",182,".","S","S","S","S",44,"S","S"
+19,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Internet site",3675,145,589,705,909,493,469,299,67
+20,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Apartment rental agency listing",164,"S","S","S",39,"S",24,"S","S"
+21,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Talking with a real estate agent",4865,148,656,858,1273,695,614,458,161
+22,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Sign on outside of building/house",736,31,70,100,178,157,91,82,"S"
+23,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Other",819,"S","S",95,185,137,186,84,70
+24,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Not reported",782,"S",57,57,158,184,176,81,58
+25,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+26,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Recent Mover Comparison to Previous Home",,,,,,,,,
+27,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+28,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Better home",6005,216,768,1155,1697,859,707,453,150
+29,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Worse home",728,48,82,67,129,76,164,128,34
+30,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","About the same",2548,97,270,294,533,420,492,266,177
+31,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Not reported",750,"S",54,56,138,160,176,87,69
+32,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+33,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Recent Mover Comparison to Previous Neighborhood",,,,,,,,,
+34,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE",,,,,,,,,,
+35,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Better neighborhood",4708,159,537,862,1354,785,552,346,114
+36,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Worse neighborhood",517,"S",38,63,100,73,120,77,"S"
+37,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","About the same",3654,164,488,523,826,438,626,385,204
+38,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Same neighborhood",377,"S",54,64,72,55,59,39,"S"
+39,"AHS",2019,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","Owner","NONE","Not reported",775,"S",58,60,145,165,182,88,67
+

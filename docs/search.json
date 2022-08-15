@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-15T10:45:34-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Sex by age by field of Bachelor's degree",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-15T10:45:36-05:00"
+    },
+    {
+      "path": "Source_A.html",
+      "title": "Source A",
+      "description": "This source holds the 2019 Census data which compares age groups and Housing and Neighborhood Search and Satisfaction. \n",
+      "author": [],
+      "contents": "\r\nLink: https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html?s_areas=00000&s_year=2019&s_tablename=TABLE7&s_bygroup1=15&s_bygroup2=1&s_filtergroup1=1&s_filtergroup2=1\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-15T13:58:29-05:00"
+    }
+  ],
+  "collections": []
+}

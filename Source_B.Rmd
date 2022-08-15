@@ -1,0 +1,17 @@
+---
+title: "Source B"
+description: |
+  This source holds the 2017 Census data which compares age groups and Housing and Neighborhood Search and Satisfaction.
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Link:  ** 
+https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html?s_areas=00000&s_year=2019&s_tablename=TABLE7&s_bygroup1=15&s_bygroup2=1&s_filtergroup1=1&s_filtergroup2=1 
+
+
+
+

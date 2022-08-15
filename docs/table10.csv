@@ -1,0 +1,41 @@
+"Row Order","Survey","Survey Year","Area","Table Description","Tenure Filter","Geography Filter","Characteristics","Race of Householder: Total|Metric: Estimate","Race of Householder: White alone|Metric: Estimate","Race of Householder: Black alone|Metric: Estimate","Race of Householder: American Indian or Alaska Native alone|Metric: Estimate","Race of Householder: Asian alone|Metric: Estimate","Race of Householder: Pacific Islander alone|Metric: Estimate","Race of Householder: Two or more races|Metric: Estimate"
+1,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","RESPONDENT MOVED DURING PAST TWO YEARS",,,,,,,
+2,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+3,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","      Total",29577,21683,4682,463,1923,172,653
+4,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","  ",,,,,,,
+5,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Housing Search Ended Earlier Than Intended",,,,,,,
+6,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","  ",,,,,,,
+7,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Yes",4232,2734,944,88,255,52,159
+8,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","  Reason housing search ended early:",,,,,,,
+9,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","    Had to move quickly",2305,1504,500,57,130,"S",92
+10,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","    Had difficulty with travel",92,47,"S","S","S","S","S"
+11,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","    Both",500,306,120,"S","S","S","S"
+12,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","    No reason given",1336,877,300,"S",90,"S","S"
+13,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","No",25344,18949,3738,375,1669,120,494
+14,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+15,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","How Respondent Found Current Unit",,,,,,,
+16,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+17,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Word of mouth",10775,7898,1749,211,583,54,280
+18,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Newspaper or other publication",979,705,186,"S",51,"S","S"
+19,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Internet site",10351,7656,1449,112,842,41,252
+20,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Apartment rental agency listing",1660,1111,353,"S",126,"S","S"
+21,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Talking with a real estate agent",5921,4801,563,"S",423,"S",81
+22,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Sign on outside of building/house",2882,2021,588,56,140,"S",58
+23,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Other",4209,2875,808,94,265,46,121
+24,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Not reported",1652,1119,321,27,134,"S","S"
+25,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+26,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Recent Mover Comparison to Previous Home",,,,,,,
+27,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+28,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Better home",15080,11080,2318,239,1001,96,346
+29,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Worse home",4052,2998,661,63,207,"S",110
+30,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","About the same",8752,6452,1390,133,574,36,167
+31,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Not reported",1692,1153,313,28,142,"S","S"
+32,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+33,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Recent Mover Comparison to Previous Neighborhood",,,,,,,
+34,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE",,,,,,,,
+35,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Better neighborhood",12061,8767,1974,213,804,65,238
+36,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Worse neighborhood",3179,2320,494,81,160,"S",110
+37,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","About the same",11356,8521,1721,111,696,63,243
+38,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Same neighborhood",1289,928,181,"S",111,"S","S"
+39,"AHS",2017,"National","Housing and Neighborhood Search and Satisfaction - All Occupied Units","All","NONE","Not reported",1692,1146,311,30,153,"S","S"
+
